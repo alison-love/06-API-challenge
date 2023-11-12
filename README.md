@@ -8,10 +8,10 @@ This project analyzes weather data across cities worldwide to explore how weathe
 
 
 Technologies Used
-Python
-Jupyter Notebook
-Libraries: Pandas, Matplotlib, hvPlot
-APIs: OpenWeatherMap, Geoapify
+- Python
+- Jupyter Notebook
+- Libraries: Pandas, Matplotlib, hvPlot
+- APIs: OpenWeatherMap, Geoapify
 
 
 Part 1: Weather Analysis (WeatherPy)
